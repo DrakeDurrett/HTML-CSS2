@@ -16,11 +16,11 @@ header {
 }
 
 #main-title {
-    margin-left: 30px;
+    margin-left: 80px;
 }
 
 a {
-    margin-left: 10px;
+    margin-left: 30px;
 }
 
 #nav-bar {
@@ -79,7 +79,7 @@ h4 {
 
 #main-pageH1 {
     position: relative;
-    top: 53vh;
+    top: 51vh;
     left: 50px;
 }
 
